@@ -7,7 +7,7 @@ Kelas : MI 2C<br>
 ## Hasil Praktikum
 
 Sebelum<br>
-![Sebelum.png](assets/img/Sebelum.png) <br>
+![Sebelum.png](img/Sebelum.png) <br>
 Sesudah<br>
-![Sesudah.png](assets/img/Sesudah.png)
+![Sesudah.png](img/Sesudah.png)
 
